@@ -28,15 +28,15 @@ Template:
 
 ## Windows
 
-https://hackmd.io/@elichad/r1tIfw76bl
+[Assistive Tech Mini-Workshop: Windows](windows.md)
 
 ## MacOS
 
-https://hackmd.io/@elichad/BJGNmPQ6be
+[Assistive Tech Mini-Workshop: MacOS](macos.md)
 
 ## Linux (Ubuntu)
 
-https://hackmd.io/@elichad/SJ_dXDXabx
+[Assistive Tech Mini-Workshop: Linux (Ubuntu)](linux-ubuntu.md)
 
 ## Other platforms
 

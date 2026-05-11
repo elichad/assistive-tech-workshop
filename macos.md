@@ -1,6 +1,6 @@
 # CW26 Assistive Tech Mini-Workshop: MacOS
 
-Return to main session document: https://hackmd.io/@elichad/HJskjYchbg
+[Return to main session document](README.md)
 
 Searchable Apple a11y features list: https://www.apple.com/uk/accessibility/features/
 

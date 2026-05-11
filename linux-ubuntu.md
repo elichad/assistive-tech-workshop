@@ -1,6 +1,6 @@
-# CW26 Assistive Tech Mini-Workshop: Linux
+# CW26 Assistive Tech Mini-Workshop: Linux (Ubuntu)
 
-Return to main session document: https://hackmd.io/@elichad/HJskjYchbg
+[Return to main session document](README.md)
 
 https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/
 

@@ -1,6 +1,6 @@
 # CW26 Assistive Tech Mini-Workshop: Windows
 
-Return to main session document: https://hackmd.io/@elichad/HJskjYchbg
+[Return to main session document](README.md)
 
 ## Vision
 
