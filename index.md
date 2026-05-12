@@ -1,4 +1,9 @@
-# CW26 Mini-Workshop: Explore the assistive technology built into your computer
+---
+title: Assistive Technology Workshop
+layout: home
+---
+
+# Workshop: Explore the assistive technology built into your computer
 
 ## Overview
 
@@ -10,7 +15,7 @@ Please bring a laptop, plus a pair of headphones - we plan to cover screen reade
 
 ## Intro slides
 
-https://docs.google.com/presentation/d/1sNwD1TzbWV4BfLrHwX_0lABYfD5n2khxcuZDXhojnSo/edit?usp=sharing
+<https://docs.google.com/presentation/d/1sNwD1TzbWV4BfLrHwX_0lABYfD5n2khxcuZDXhojnSo/edit?usp=sharing>
 
 We'll cover accessibility features in the following categories:
 
@@ -22,7 +27,7 @@ We'll cover accessibility features in the following categories:
 Template:
 
 * Enable: how to enable the setting or tool
-* Explore: these are example actions to carry out on the TREvolution website: https://dareuk.org.uk/trevolution/
+* Explore: these are example actions to carry out on the TREvolution website: <https://dareuk.org.uk/trevolution/>
 * Report: these are things that indicate accessibility barriers. If you find them on the TREvolution website please report them to Eli or Alex! On other websites you can report to the website owner if you know them.
 * Disable: how to disable the setting or tool
 
@@ -41,17 +46,17 @@ Template:
 ## Other platforms
 
 * iOS
-    * https://support.apple.com/en-gb/guide/assistive-access-iphone/welcome/ios
-    * https://support.apple.com/en-gb/guide/iphone/iph3e2e4367/ios
-    * Searchable Apple a11y features list: https://www.apple.com/uk/accessibility/features/
+    * <https://support.apple.com/en-gb/guide/assistive-access-iphone/welcome/ios>
+    * <https://support.apple.com/en-gb/guide/iphone/iph3e2e4367/ios>
+    * Searchable Apple a11y features list: <https://www.apple.com/uk/accessibility/features/>
 
 ## Additional resources
 
-* https://webaim.org/projects/screenreadersurvey10/#used
-* https://bbc.github.io/accessibility-news-and-you/
-* https://www.youtube.com/watch?v=Ij-GLix2QUQ AI and Accessibility: the Good, the Bad, and the Bollocks / Léonie Watson / FFConf 2024
-    * newer version https://beyondtellerrand.com/events/dusseldorf-2025/speakers/leonie-watson
-* Seeing AI app: https://www.microsoft.com/en-us/garage/wall-of-fame/seeing-ai/
+* <https://webaim.org/projects/screenreadersurvey10/#used>
+* <https://bbc.github.io/accessibility-news-and-you/>
+* <https://www.youtube.com/watch?v=Ij-GLix2QUQ> AI and Accessibility: the Good, the Bad, and the Bollocks / Léonie Watson / FFConf 2024
+    * newer version <https://beyondtellerrand.com/events/dusseldorf-2025/speakers/leonie-watson>
+* Seeing AI app: <https://www.microsoft.com/en-us/garage/wall-of-fame/seeing-ai/>
 
 ## Authors
 
@@ -67,5 +72,3 @@ The source code for this website is hosted at <https://github.com/elichad/assist
 The workshop documentation (introductory page and OS-specific pages) is made available under the CC BY 4.0 license. Software are made available under an MIT license.
 
 [Full license](https://github.com/elichad/assistive-tech-workshop/blob/main/LICENSE.md)
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.

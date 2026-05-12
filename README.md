@@ -4,7 +4,7 @@ The workshop materials in this repository were originally developed for a 30-min
 
 It is recommended to allow at least an hour to work through all the material for a given operating system.
 
-The material can be browsed at https://elichad.github.io/assistive-tech-workshop/ .
+The material can be browsed at <https://elichad.github.io/assistive-tech-workshop/> .
 
 ## Authors
 

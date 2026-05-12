@@ -1,6 +1,14 @@
-# CW26 Assistive Tech Mini-Workshop: Windows
+---
+title: Windows - Assistive Technology Workshop
+layout: default
+---
 
-[Return to main session document](README.md)
+# Assistive Tech Workshop: Windows
+
+[Return to main session document](index.md)
+
+1. TOC
+{:toc}
 
 ## Vision
 
@@ -35,10 +43,10 @@ Explore:
 
 * Follow the QuickStart tutorial in the Narrator Home app (should appear when you launch Narrator)
 * Try to find Alex and Eli on the TREvolution website using only the keyboard and screen meter announcements
-    * go to https://dareuk.org.uk/trevolution/
+    * go to< https://dareuk.org.uk/trevolution/>
     * on the homepage there is a link to the list of teams
     * each team has a list of members (Alex and Eli are from the University of Manchester)
-* Cheat sheet: https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts
+* Cheat sheet: <https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts>
 
 Report: 
 
@@ -54,7 +62,7 @@ Disable: Windows key + Ctrl + Enter
 * Adjust display scale (Settings > System > Display > Scale)
 * Mouse pointer style settings (Settings > Accessibility > Mouse pointer and touch)
 * Colour filters for accommodating colourblindness (Settings > Accessibility > Colour filters)
-* https://www.microsoft.com/en-us/windows/accessibility-features#vision
+* <https://www.microsoft.com/en-us/windows/accessibility-features#vision>
 
 <div style="page-break-after: always;"></div>
 
@@ -66,7 +74,7 @@ Enable: Settings > Accessibility > Captions > turn on Live captions. Then select
 
 Explore: 
 
-* Play the video on the TREvolution homepage https://dareuk.org.uk/trevolution/. Leave it playing and switch tabs/windows. 
+* Play the video on the TREvolution homepage <https://dareuk.org.uk/trevolution/>. Leave it playing and switch tabs/windows. 
 * Customise the captions with the settings in the captions bar (gear icon) and Settings > Accessibility > Captions > Caption style.
 
 Report: N/A
@@ -140,18 +148,18 @@ Explore:
 
 * Subtle differences when you minimise/maximise/change size of windows.
 * Effect on browser - click "Pillars" before turning the setting off and see how the scroll down the page is animated. Does this change when you change the setting?
-* Example: https://www.w3.org/WAI/WCAG21/working-examples/css-reduced-motion-query/
+* Example: <https://www.w3.org/WAI/WCAG21/working-examples/css-reduced-motion-query/>
 
 Report: 
 * if animations are unchanged after turning the setting off
 
 Disable: Settings > Accessibility > Visual effects > Animation effects (turn on)
 
-Bonus: This has its own setting in most browsers - `prefers-reduced-motion` https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion. You can check if a user has this preference set using CSS.
+Bonus: This has its own setting in most browsers - `prefers-reduced-motion` <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion>. You can check if a user has this preference set using CSS.
 
 ### Immersive Reader (Edge)
 
-Enable: visit any website (e.g. https://dareuk.org.uk/trevolution/) in Microsoft Edge. Click "Immersive Reader" or "More actions" > "Immersive Reader" in the address bar (next to the "Add to Favourites" star).
+Enable: visit any website (e.g. <https://dareuk.org.uk/trevolution/>) in Microsoft Edge. Click "Immersive Reader" or "More actions" > "Immersive Reader" in the address bar (next to the "Add to Favourites" star).
 
 Explore: 
 
@@ -173,5 +181,5 @@ Disable: close the Immersive Reader toolbar
 
 ## Additional resources
 
-* https://www.microsoft.com/en-us/accessibility
-* https://support.microsoft.com/en-gb/windows/discover-windows-accessibility-features-8b1068e6-d3b8-4ba8-b027-133dd8911df9#PickTab=Windows_11&WindowsVersion=Windows_11&windowsversion=windows_11
+* <https://www.microsoft.com/en-us/accessibility>
+* <https://support.microsoft.com/en-gb/windows/discover-windows-accessibility-features-8b1068e6-d3b8-4ba8-b027-133dd8911df9#PickTab=Windows_11&WindowsVersion=Windows_11&windowsversion=windows_11>

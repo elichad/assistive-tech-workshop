@@ -1,12 +1,20 @@
-# CW26 Assistive Tech Mini-Workshop: Linux (Ubuntu)
+---
+title: Linux (Ubuntu) - Assistive Technology Workshop
+layout: default
+---
 
-[Return to main session document](README.md)
+# Assistive Tech Workshop: Linux (Ubuntu)
 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/
+[Return to main session document](index.md)
+
+1. TOC
+{:toc}
+
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/>
 
 ## Vision
 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#visual-impairments
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#visual-impairments>
 
 ### Colour controls - high contrast mode
 
@@ -31,17 +39,17 @@ Disable: Settings > Accessibility > Zoom > Disable Desktop Zoom.
 ### Orca (screen reader)
 
 Rerequires 10-15 mins to explore. 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/orca/read-screen-aloud/
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/orca/read-screen-aloud/>
 
 Enable: Settings > Accessibility > Seeing > Enable Screen Reader 
 
-Explore: Navigate to website using the keyboard and the screen reader output. Check Orca preferences here https://documentation.ubuntu.com/desktop/en/latest/reference/accessibility/orca-preferences/
+Explore: Navigate to website using the keyboard and the screen reader output. Check Orca preferences here <https://documentation.ubuntu.com/desktop/en/latest/reference/accessibility/orca-preferences/>
 
 Report: Is it particularly difficult to find anything on the page?
 
 Disable: Settings > Accessibility > Seeing > Disable Screen Reader
 
-Cheat sheet: https://github.com/C-Loftus/orca-intro-guide/blob/main/cheatsheet.md
+Cheat sheet: <https://github.com/C-Loftus/orca-intro-guide/blob/main/cheatsheet.md>
 
 ### Other
 
@@ -53,7 +61,7 @@ Cheat sheet: https://github.com/C-Loftus/orca-intro-guide/blob/main/cheatsheet.m
 
 ## Hearing
 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#hearing-impairments
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#hearing-impairments>
 
 ### Display audio alerts visually
 
@@ -78,7 +86,7 @@ Disable: Settings  > Accessibility > Hearing > Disable Visual Alerts
 
 ## Mobility
 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#mobility-impairments
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/#mobility-impairments>
 
 ### Mouse/Touchpad Pointer Speed
 
@@ -133,7 +141,7 @@ Explore:
 
 * Subtle differences when you minimise/maximise/change size of windows.
 * Effect on browser - click "Pillars" before turning the setting off and see how the scroll down the page is animated. Does this change when you change the setting?
-* Example: https://www.w3.org/WAI/WCAG21/working-examples/css-reduced-motion-query/
+* Example: <https://www.w3.org/WAI/WCAG21/working-examples/css-reduced-motion-query/>
 
 Report: 
 
@@ -141,7 +149,7 @@ Report:
 
 Disable: Settings > Accessibility > Seeing > disable Reduce Animation
 
-Bonus: This has its own setting in most browsers - `prefers-reduced-motion` https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion. You can check if a user has this preference set using CSS.
+Bonus: This has its own setting in most browsers - `prefers-reduced-motion` <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion>. You can check if a user has this preference set using CSS.
 
 ### Other
 
@@ -150,4 +158,4 @@ Bonus: This has its own setting in most browsers - `prefers-reduced-motion` http
 
 ## Additional resources
 
-https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/
+<https://documentation.ubuntu.com/desktop/en/latest/how-to/accessibility/>

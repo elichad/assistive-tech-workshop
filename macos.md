@@ -1,8 +1,16 @@
-# CW26 Assistive Tech Mini-Workshop: MacOS
+---
+title: MacOS - Assistive Technology Workshop
+layout: default
+---
 
-[Return to main session document](README.md)
+# Assistive Tech Workshop: MacOS
 
-Searchable Apple a11y features list: https://www.apple.com/uk/accessibility/features/
+[Return to main session document](index.md)
+
+1. TOC
+{:toc}
+
+Searchable Apple a11y features list: <https://www.apple.com/uk/accessibility/features/>
 
 ## Vision
 
@@ -25,9 +33,9 @@ Settings > Accessibility > VoiceOver
 - VO + shift-cursor: enter/leave blocks
 - VO + cmd-h/cmd-shift-h: navigate page headings
 - VO + u: open the rotor
-- https://bbc.github.io/accessibility-news-and-you/assistive-technology/testing-steps/voiceover-mac.html
+- <https://bbc.github.io/accessibility-news-and-you/assistive-technology/testing-steps/voiceover-mac.html>
 
-Cheat sheet: https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts
+Cheat sheet: <https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts>
 
 ### Screen Zoom
 
@@ -90,11 +98,9 @@ Settings > Accessibility > Audio
 
 ### Autocomplete forms (Safari)
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/autocomplete
+- <https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/autocomplete>
 - required by WCAG 2.
 
 ## Additional resources
 
-- https://support.apple.com/en-gb/guide/mac-help/mh35884/mac
-
-
+- <https://support.apple.com/en-gb/guide/mac-help/mh35884/mac>
