@@ -9,7 +9,7 @@ layout: home
 
 In this workshop you will learn how to enable and use a variety of built-in tools and settings on your computer designed to support people with disabilities. 
 
-Anyone is welcome to attend - whether you are completely new to learning about disability and assistive tech, or you are a regular user of one type of assistive tech who is curious about tools designed for other needs.
+Anyone is welcome to attend - whether you are completely new to learning about disability and assistive technology, or you are a regular user of one type of assistive technology who is curious about tools designed for other needs.
 
 Please bring a laptop, plus a pair of headphones - we plan to cover screen readers as part of the session, and using headphones will ensure that everyone can hear their own screen reader clearly without interfering with each other!
 
@@ -33,15 +33,15 @@ Template:
 
 ## Windows
 
-[Assistive Tech Mini-Workshop: Windows](windows.md)
+[Assistive Technology Workshop: Windows](windows.md)
 
 ## MacOS
 
-[Assistive Tech Mini-Workshop: MacOS](macos.md)
+[Assistive  Technology Workshop: MacOS](macos.md)
 
 ## Linux (Ubuntu)
 
-[Assistive Tech Mini-Workshop: Linux (Ubuntu)](linux-ubuntu.md)
+[Assistive Technology Workshop: Linux (Ubuntu)](linux-ubuntu.md)
 
 ## Other platforms
 

@@ -1,9 +1,9 @@
 ---
-title: Windows - Assistive Technology Workshop
+title: Windows
 layout: default
 ---
 
-# Assistive Tech Workshop: Windows
+# Assistive Technology Workshop: Windows
 
 [Return to main session document](index.md)
 

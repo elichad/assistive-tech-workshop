@@ -1,9 +1,9 @@
 ---
-title: MacOS - Assistive Technology Workshop
+title: MacOS
 layout: default
 ---
 
-# Assistive Tech Workshop: MacOS
+# Assistive Technology Workshop: MacOS
 
 [Return to main session document](index.md)
 

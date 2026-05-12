@@ -1,9 +1,9 @@
 ---
-title: Linux (Ubuntu) - Assistive Technology Workshop
+title: Linux (Ubuntu)
 layout: default
 ---
 
-# Assistive Tech Workshop: Linux (Ubuntu)
+# Assistive Technology Workshop: Linux (Ubuntu)
 
 [Return to main session document](index.md)
 
