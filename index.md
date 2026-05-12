@@ -55,10 +55,10 @@ Template:
 
 ## Authors
 
-Eli Chadwick, University of Manchester
-Alexander Hambley, University of Manchester
-Jim O'Donnell, University of Oxford
-Pao Corrales, 21st Century Weather
+* Eli Chadwick, University of Manchester
+* Alexander Hambley, University of Manchester
+* Jim O'Donnell, University of Oxford
+* Pao Corrales, 21st Century Weather
 
 ## License
 
